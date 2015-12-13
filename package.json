@@ -1,0 +1,29 @@
+{
+  "name": "abstractfs",
+  "version": "1.0.0",
+  "description": "A filesystem abstraction layer for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rentaserver/node-abstractfs.git"
+  },
+  "keywords": [
+    "abstractfs",
+    "filesystem"
+  ],
+  "author": "RentAServer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rentaserver/node-abstractfs/issues"
+  },
+  "homepage": "https://github.com/rentaserver/node-abstractfs#readme",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "fs2": "^0.2.3",
+    "glob": "^6.0.1",
+    "rimraf": "^2.4.4"
+  }
+}
