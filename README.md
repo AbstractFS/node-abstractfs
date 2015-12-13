@@ -25,3 +25,7 @@ const filesystem = new AbstractFS.Filesystem(new AbstractFS.Adapters.Local('./')
 filesystem.write('test.txt', 'Testing data').then(() => console.log('Written!')).catch((e) => console.log(e, e.stack));
 
 ```
+
+## Credits
+
+This module was heavily inspired by and follows the API of Flysystem. It also uses some of it's code/regex in the util.js file.
