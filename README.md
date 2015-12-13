@@ -28,4 +28,4 @@ filesystem.write('test.txt', 'Testing data').then(() => console.log('Written!'))
 
 ## Credits
 
-This module was heavily inspired by and follows the API of Flysystem. It also uses some of it's code/regex in the util.js file.
+This module was heavily inspired by and follows the API of Flysystem.
