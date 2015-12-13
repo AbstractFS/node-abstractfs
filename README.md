@@ -12,6 +12,7 @@ Currently only supports Local, but should be easy enough to extend. It is also h
 
 - Promises via bluebird
 - Prefixing of paths
+- One unified API for every filesystem type, no worrying about special packages
 
 ## Example
 
