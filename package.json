@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rentaserver/node-abstractfs.git"
+    "url": "git+ssh://git@github.com/AbstractFS/node-abstractfs.git"
   },
   "keywords": [
     "abstractfs",
@@ -17,9 +17,9 @@
   "author": "RentAServer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rentaserver/node-abstractfs/issues"
+    "url": "https://github.com/AbstractFS/node-abstractfs/issues"
   },
-  "homepage": "https://github.com/rentaserver/node-abstractfs#readme",
+  "homepage": "https://github.com/AbstractFS/node-abstractfs#readme",
   "dependencies": {
     "bluebird": "^3.0.6",
     "fs2": "^0.2.3",
